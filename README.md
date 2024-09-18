@@ -7,4 +7,5 @@ I had to make this github.io and then I did clone repository and chose file loca
   - Bettering english
   - Outdoors
 ### Websites I Recommend
-  - I recommend the webste [Thesaurus](https://www.Thesaurus.com)
+  - I recommend the webste [Thesaurus](https://www.Thesaurus.com) because it helps me
+    improve vocabulary, it's a dictionary.
